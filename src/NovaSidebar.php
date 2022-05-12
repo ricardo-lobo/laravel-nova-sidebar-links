@@ -5,6 +5,7 @@ namespace Giuga\LaravelNovaSidebar;
 use Giuga\LaravelNovaSidebar\Traits\Makeable;
 use Illuminate\Support\Collection;
 use Laravel\Nova\Tool;
+use Illuminate\Http\Request;
 
 class NovaSidebar extends Tool
 {
