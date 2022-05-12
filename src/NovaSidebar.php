@@ -28,6 +28,11 @@ class NovaSidebar extends Tool
     public function boot()
     {
     }
+    
+    public function menu(Request $request)
+    {
+        // TODO: Implement menu() method.
+    }
 
     /**
      * Build the view that renders the navigation links for the tool.
